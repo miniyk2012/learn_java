@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c1ab39-4e29-4105-9e8c-50c9e55d2571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test02/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test03/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -43,6 +42,7 @@
     "Application.Test.executor": "Run",
     "Application.org.turing.interview.basic.example3.Main.executor": "Run",
     "Application.org.turing.interview.lambda.test02.Test.executor": "Run",
+    "Application.org.turing.interview.lambda.test03.Test.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -61,26 +61,13 @@
       <recent name="org.turing.interview.lambda.test01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.turing.interview.lambda.test02.Test">
+  <component name="RunManager" selected="Application.org.turing.interview.lambda.test03.Test">
     <configuration name="ConcurrentIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.turing.interview.basic.example2.ConcurrentIteratorTest" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.turing.interview.basic.example2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NpeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.turing.interview.basic.example1.NpeMain" />
-      <module name="learn_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.turing.interview.basic.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,20 +114,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.turing.interview.lambda.test03.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test03.Test" />
+      <module name="learn_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.turing.interview.lambda.test03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.org.turing.interview.lambda.test02.Test" />
+      <item itemvalue="Application.org.turing.interview.lambda.test03.Test" />
       <item itemvalue="Application.ConcurrentIteratorTest" />
       <item itemvalue="Application.org.turing.interview.basic.example3.Main" />
-      <item itemvalue="Application.NpeMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.turing.interview.lambda.test03.Test" />
         <item itemvalue="Application.org.turing.interview.lambda.test02.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.org.turing.interview.basic.example3.Main" />
         <item itemvalue="Application.ConcurrentIteratorTest" />
-        <item itemvalue="Application.NpeMain" />
       </list>
     </recent_temporary>
   </component>
