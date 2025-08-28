@@ -2,7 +2,7 @@ package org.turing.interview.lambda.test01;
 
 @FunctionalInterface
 public interface TestFunctionInterface {
-    void test();
+    String test();
 
     default String getName() {
         return "default name";
