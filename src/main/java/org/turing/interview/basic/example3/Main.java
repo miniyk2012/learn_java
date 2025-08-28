@@ -7,12 +7,20 @@ import java.util.function.Function;
 
 public class Main {
     public static void main(String[] args) {
+//        demo1();
+    }
+
+    private static void demo2() {
+
+    }
+
+    private static void demo1() {
         Map<String, Object> map = new HashMap<>();
         System.out.println(map.get(null)); // 输出 null
         System.out.println(map.containsKey(null)); // 输出 false
-//        map.put(null, "a");
-//        System.out.println(map.get(null)); // 输出 "a"
-//        System.out.println(map.containsKey(null)); // 输出 true
+        map.put(null, "a");
+        System.out.println(map.get(null)); // 输出 "a"
+        System.out.println(map.containsKey(null)); // 输出 true
         map.computeIfAbsent(null, new Function<String, Object>(){
             @Override
             public Object apply(String s) {

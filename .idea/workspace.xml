@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c1ab39-4e29-4105-9e8c-50c9e55d2571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/basic/example1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/basic/example1/NpeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/basic/example2/ConcurrentIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/basic/example3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/basic/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/turing/interview/basic/example3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/basic/example3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
