@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c1ab39-4e29-4105-9e8c-50c9e55d2571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test03/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/error/test01/OverdraftException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/error/test01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/ConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/PredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/SupplierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test03/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test03/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +44,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConcurrentIteratorTest.executor": "Run",
+    "Application.ConsumerTest.executor": "Run",
+    "Application.FunctionTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NpeMain.executor": "Run",
+    "Application.PredicateTest.executor": "Run",
+    "Application.SupplierTest.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.org.turing.interview.basic.example3.Main.executor": "Run",
+    "Application.org.turing.interview.error.test01.Test.executor": "Run",
     "Application.org.turing.interview.lambda.test02.Test.executor": "Run",
     "Application.org.turing.interview.lambda.test03.Test.executor": "Run",
+    "JUnit.FunctionTest.demo1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -61,13 +74,13 @@
       <recent name="org.turing.interview.lambda.test01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.turing.interview.lambda.test03.Test">
-    <configuration name="ConcurrentIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.turing.interview.basic.example2.ConcurrentIteratorTest" />
+  <component name="RunManager" selected="Application.FunctionTest">
+    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test04.ConsumerTest" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.turing.interview.basic.example2.*" />
+          <option name="PATTERN" value="org.turing.interview.lambda.test04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test01.Test" />
+    <configuration name="FunctionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test04.FunctionTest" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.turing.interview.lambda.test01.*" />
+          <option name="PATTERN" value="org.turing.interview.lambda.test04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.turing.interview.basic.example3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.turing.interview.basic.example3.Main" />
+    <configuration name="PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test04.PredicateTest" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.turing.interview.basic.example3.*" />
+          <option name="PATTERN" value="org.turing.interview.lambda.test04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.turing.interview.lambda.test02.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test02.Test" />
+    <configuration name="SupplierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test04.SupplierTest" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.turing.interview.lambda.test02.*" />
+          <option name="PATTERN" value="org.turing.interview.lambda.test04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,33 +127,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.turing.interview.lambda.test03.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test03.Test" />
+    <configuration name="FunctionTest.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.turing.interview.lambda.test03.*" />
+          <option name="PATTERN" value="org.turing.interview.lambda.test04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.turing.interview.lambda.test04" />
+      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test04.FunctionTest" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.org.turing.interview.lambda.test02.Test" />
-      <item itemvalue="Application.org.turing.interview.lambda.test03.Test" />
-      <item itemvalue="Application.ConcurrentIteratorTest" />
-      <item itemvalue="Application.org.turing.interview.basic.example3.Main" />
+      <item itemvalue="Application.FunctionTest" />
+      <item itemvalue="Application.ConsumerTest" />
+      <item itemvalue="Application.PredicateTest" />
+      <item itemvalue="Application.SupplierTest" />
+      <item itemvalue="JUnit.FunctionTest.demo1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.turing.interview.lambda.test03.Test" />
-        <item itemvalue="Application.org.turing.interview.lambda.test02.Test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.org.turing.interview.basic.example3.Main" />
-        <item itemvalue="Application.ConcurrentIteratorTest" />
+        <item itemvalue="Application.FunctionTest" />
+        <item itemvalue="JUnit.FunctionTest.demo1" />
+        <item itemvalue="Application.PredicateTest" />
+        <item itemvalue="Application.ConsumerTest" />
+        <item itemvalue="Application.SupplierTest" />
       </list>
     </recent_temporary>
   </component>
