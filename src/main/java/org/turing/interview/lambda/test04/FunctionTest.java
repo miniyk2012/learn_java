@@ -14,7 +14,7 @@ public class FunctionTest {
                 return a + 1;
             }
         };
-        Integer result = changeInteger(1, f);
+        Integer result = changeInteger(2, f);
         System.out.println(result);
     }
 
@@ -26,6 +26,6 @@ public class FunctionTest {
     void demo1() {
         Function<Integer, Integer> f = a -> a + 1;
         Integer result = changeInteger(1, f);
-        assertEquals(2, changeInteger(1, f));
+        assertEquals(2, result);
     }
 }

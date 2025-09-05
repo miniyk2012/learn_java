@@ -1,7 +1,6 @@
 package org.turing.interview.lambda.test04;
 
 import java.util.function.Consumer;
-import java.util.function.Function;
 
 public class ConsumerTest {
     public static void main(String[] args) {

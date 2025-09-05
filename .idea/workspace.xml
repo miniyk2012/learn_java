@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c1ab39-4e29-4105-9e8c-50c9e55d2571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/error/test01/OverdraftException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/error/test01/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/SupplierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test03/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test03/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/ConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/ConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/turing/interview/lambda/test04/FunctionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +68,7 @@
       <recent name="org.turing.interview.lambda.test01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionTest">
+  <component name="RunManager" selected="JUnit.FunctionTest.demo1">
     <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test04.ConsumerTest" />
       <module name="learn_java" />
@@ -152,8 +146,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionTest" />
         <item itemvalue="JUnit.FunctionTest.demo1" />
+        <item itemvalue="Application.FunctionTest" />
         <item itemvalue="Application.PredicateTest" />
         <item itemvalue="Application.ConsumerTest" />
         <item itemvalue="Application.SupplierTest" />
