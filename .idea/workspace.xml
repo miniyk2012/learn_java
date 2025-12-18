@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c1ab39-4e29-4105-9e8c-50c9e55d2571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Solution03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/Solution03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Solution283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/Solution283Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,23 +105,7 @@
       <recent name="org.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Solution03Test.testLongestPalindromeParameterized">
-    <configuration name="FunctionTest.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="learn_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.turing.interview.lambda.test04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.turing.interview.lambda.test04" />
-      <option name="MAIN_CLASS_NAME" value="org.turing.interview.lambda.test04.FunctionTest" />
-      <option name="METHOD_NAME" value="demo1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution283Test.testMoveZeroes">
     <configuration name="Solution03Test.testLongestPalindromeParameterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learn_java" />
       <extension name="coverage">
@@ -185,20 +169,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution283Test.testMoveZeroes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.Solution283Test" />
+      <option name="METHOD_NAME" value="testMoveZeroes(int[],int[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.Solution03Test.testLongestPalindromeParameterized" />
+      <item itemvalue="JUnit.Solution283Test.testMoveZeroes" />
       <item itemvalue="JUnit.Solution05Test" />
       <item itemvalue="JUnit.Solution05Test.testLongestPalindromeParameterized" />
       <item itemvalue="JUnit.Solution05Test.testNullInput" />
-      <item itemvalue="JUnit.FunctionTest.demo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution283Test.testMoveZeroes" />
         <item itemvalue="JUnit.Solution03Test.testLongestPalindromeParameterized" />
         <item itemvalue="JUnit.Solution05Test.testLongestPalindromeParameterized" />
         <item itemvalue="JUnit.Solution05Test" />
         <item itemvalue="JUnit.Solution05Test.testNullInput" />
-        <item itemvalue="JUnit.FunctionTest.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +220,7 @@
       <workItem from="1759065400983" duration="5000" />
       <workItem from="1759065426922" duration="521000" />
       <workItem from="1766045938043" duration="2074000" />
-      <workItem from="1766048726836" duration="2464000" />
+      <workItem from="1766048726836" duration="2962000" />
     </task>
     <servers />
   </component>
