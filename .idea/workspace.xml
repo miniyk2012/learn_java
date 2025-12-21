@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c1ab39-4e29-4105-9e8c-50c9e55d2571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Solution11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Solution14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exercise/ArrayExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/example1/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/exampl1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,10 +35,14 @@
     <setting file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.13.4/junit-jupiter-api-5.13.4-sources.jar!/org/junit/jupiter/api/Test.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.13.4/junit-jupiter-api-5.13.4.jar!/org/junit/jupiter/api/Test.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/io/IOException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/NullPointerException.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/StringBuffer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/Collections.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/Comparator.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/NavigableMap.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/SortedMap.java" root0="SKIP_INSPECTION" />
@@ -59,6 +63,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ArrayExercise.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConcurrentIteratorTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConsumerTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.FunctionTest.executor&quot;: &quot;Run&quot;,
@@ -110,13 +115,13 @@
       <recent name="org.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+  <component name="RunManager" selected="Application.ArrayExercise">
+    <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exercise.ArrayExercise" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,19 +193,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ArrayExercise" />
       <item itemvalue="JUnit.Solution03Test.testLongestPalindromeParameterized" />
-      <item itemvalue="JUnit.Solution283Test.testMoveZeroes" />
       <item itemvalue="JUnit.Solution05Test" />
       <item itemvalue="JUnit.Solution05Test.testLongestPalindromeParameterized" />
+      <item itemvalue="JUnit.Solution283Test.testMoveZeroes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayExercise" />
         <item itemvalue="JUnit.Solution283Test.testMoveZeroes" />
-        <item itemvalue="JUnit.Solution03Test.testLongestPalindromeParameterized" />
         <item itemvalue="JUnit.Solution05Test.testLongestPalindromeParameterized" />
         <item itemvalue="JUnit.Solution05Test" />
+        <item itemvalue="JUnit.Solution03Test.testLongestPalindromeParameterized" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +229,10 @@
       <workItem from="1766045938043" duration="2074000" />
       <workItem from="1766048726836" duration="8910000" />
       <workItem from="1766059613951" duration="205000" />
-      <workItem from="1766059844618" duration="1500000" />
+      <workItem from="1766059844618" duration="26187000" />
+      <workItem from="1766311169154" duration="4000" />
+      <workItem from="1766311285605" duration="40000" />
+      <workItem from="1766311337116" duration="1522000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.exampl1;
 
 
 import java.util.Arrays;
@@ -7,7 +7,7 @@ public class Main {
 
 
     private static int[] sort(int[] nums) {
-        if (nums == null || nums.length <= 0) {
+        if (nums == null || nums.length == 0) {
             return new int[]{};
         }
         if (nums.length == 1) {
@@ -58,12 +58,13 @@ public class Main {
                 }
             }
         }
+
     }
 
 
     public static void main(String[] args) {
         String s = "abcd";
-        StringBuilder sb = new StringBuilder();
+        StringBuffer sb = new StringBuffer();
         for (int i = s.length() - 1; i >= 0; i--) {
             sb.append(s.charAt(i));
         }
