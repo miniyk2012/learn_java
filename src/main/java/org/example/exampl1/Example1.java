@@ -3,7 +3,7 @@ package org.example.exampl1;
 
 import java.util.Arrays;
 
-public class Main {
+public class Example1 {
 
 
     private static int[] sort(int[] nums) {
