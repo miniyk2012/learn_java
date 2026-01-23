@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c1ab39-4e29-4105-9e8c-50c9e55d2571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/example2/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/example2/Example2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/example3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/example4/Example4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exampl1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/exampl1/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exampl1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/example1/Example1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,6 +41,7 @@
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/StringBuffer.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/Arrays.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/Collections.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/Comparator.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.462-zulu/src.zip!/java/util/NavigableMap.java" root0="SKIP_INSPECTION" />
@@ -60,49 +61,51 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayExercise.executor": "Run",
-    "Application.ConcurrentIteratorTest.executor": "Run",
-    "Application.ConsumerTest.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.FunctionTest.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NpeMain.executor": "Run",
-    "Application.PredicateTest.executor": "Run",
-    "Application.SupplierTest.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.org.turing.interview.basic.example3.Main.executor": "Run",
-    "Application.org.turing.interview.error.test01.Test.executor": "Run",
-    "Application.org.turing.interview.lambda.test02.Test.executor": "Run",
-    "Application.org.turing.interview.lambda.test03.Test.executor": "Run",
-    "JUnit.FunctionTest.demo1.executor": "Run",
-    "JUnit.Solution03Test.testLongestPalindromeParameterized.executor": "Run",
-    "JUnit.Solution05Test.executor": "Run",
-    "JUnit.Solution05Test.testLongestPalindromeParameterized.executor": "Run",
-    "JUnit.Solution05Test.testNullInput.executor": "Run",
-    "JUnit.Solution283Test.testMoveZeroes.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcurrentIteratorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsumerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NpeMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredicateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SupplierTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.turing.interview.basic.example3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.turing.interview.error.test01.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.turing.interview.lambda.test02.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.turing.interview.lambda.test03.Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FunctionTest.demo1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Solution03Test.testLongestPalindromeParameterized.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Solution05Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Solution05Test.testLongestPalindromeParameterized.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Solution05Test.testNullInput.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Solution283Test.testMoveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.turing.interview.lambda.test01" />
@@ -116,7 +119,7 @@
       <recent name="org.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example2">
+  <component name="RunManager" selected="Application.Example4">
     <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.exercise.ArrayExercise" />
       <module name="learn_java" />
@@ -143,33 +146,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution05Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.example3.Example3" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.*" />
+          <option name="PATTERN" value="org.example.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.Solution05Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution05Test.testLongestPalindromeParameterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.example4.Example4" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.*" />
+          <option name="PATTERN" value="org.example.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.Solution05Test" />
-      <option name="METHOD_NAME" value="testLongestPalindromeParameterized(java.lang.String,java.lang.Integer,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,19 +189,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Example4" />
+      <item itemvalue="Application.Example3" />
       <item itemvalue="Application.Example2" />
       <item itemvalue="Application.ArrayExercise" />
-      <item itemvalue="JUnit.Solution05Test" />
-      <item itemvalue="JUnit.Solution05Test.testLongestPalindromeParameterized" />
       <item itemvalue="JUnit.Solution283Test.testMoveZeroes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2" />
         <item itemvalue="Application.ArrayExercise" />
         <item itemvalue="JUnit.Solution283Test.testMoveZeroes" />
-        <item itemvalue="JUnit.Solution05Test.testLongestPalindromeParameterized" />
-        <item itemvalue="JUnit.Solution05Test" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +232,12 @@
       <workItem from="1766319731207" duration="55000" />
       <workItem from="1766319804786" duration="44000" />
       <workItem from="1766324719027" duration="1000" />
-      <workItem from="1766335953681" duration="6165000" />
+      <workItem from="1766335953681" duration="8171000" />
+      <workItem from="1766566492787" duration="12029000" />
+      <workItem from="1766977120364" duration="615000" />
+      <workItem from="1767115446308" duration="1283000" />
+      <workItem from="1769176206544" duration="251000" />
+      <workItem from="1769176470643" duration="596000" />
     </task>
     <servers />
   </component>
@@ -251,6 +254,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
